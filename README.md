@@ -1,1 +1,1 @@
-# Mall-Customer-Segmentation-Python-ML-
+# Mall-Customer-Segmentation-Python-ML-Model
